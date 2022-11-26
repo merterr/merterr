@@ -9,7 +9,7 @@
   - PostgreSQL
   - MSSQL
 
-- Dev-Ops
+- DevOps
   - Docker
   - Git
   - Jira
