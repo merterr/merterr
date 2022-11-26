@@ -1,14 +1,29 @@
-👋 Hi, I’m @merterr
+🖐 Hi, I'm @merterr
 <br/>
-👀 I’m interested in web technologies.
+🕵 I'm interested in web technologies.
 <br/>
-I am currently using 
-- ASP.NET Core 
-- Angular
-- Docker 
-- JS 
-- CSS
-- HTML5
+💻 I'm currently using following technologies:
+- Back End
+  - C#
+  - ASP.NET
+  - PostgreSQL
+  - MSSQL
+
+- Dev-Ops
+  - Docker
+  - Git
+  - Jira
+  - Confluence
+  - Graylog 
+
+- Front End
+  - Angular
+  - JavaScript
+  - jQuery
+  - Sass
+  - CSS
+  - HTML5
+
  
 
 
