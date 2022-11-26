@@ -21,7 +21,7 @@
   - JavaScript
   - jQuery
   - Sass
-  - CSS
+  - CSS3
   - HTML5
 
  
