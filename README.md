@@ -18,9 +18,10 @@
 - DevOps
   - Docker
   - Portainer
-  - Git | TFS
+  - Bitbucket, Github - (Git) | TFS
   - Jira
-  - Confluence
+  - Confluence 
+  - Bamboo (CI/CD)
   - Graylog 
 
 - Front End
@@ -31,8 +32,4 @@
   - jQuery
   - SCSS
   - CSS3
-  - HTML5 | XHTML
-
- 
-
-
+  - HTML5 | XHTML 
